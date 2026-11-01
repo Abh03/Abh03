@@ -4,8 +4,6 @@ AI/ML Engineer | LLM Systems & Computer Vision Based in Kathmandu, Nepal · Open
 
 I build and ship AI systems: LLM pipelines that stay accurate and affordable in production, and vision models that run on real data. At NAVIO I cut LLM costs by ~90% on a live shipping-industry platform. My co-authored paper on assistive navigation was published at IEEE DSIT 2025.
 
-Portfolio · LinkedIn · Email · Paper
-
 ## What I work on
 - LLM and agent systems: retrieval (RAG, pgvector), evidence verification, cost-aware model routing, and human-in-the-loop review.
 - Computer vision: classification, detection, pose estimation, and hyperspectral imaging.
