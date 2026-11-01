@@ -1,6 +1,6 @@
 ## Hi, I'm Abhyudit Adhikari 👋
 
-AI/ML Engineer | LLM Systems & Computer Vision Based in Kathmandu, Nepal · Open to remote and relocation
+## AI/ML Engineer | LLM Systems & Computer Vision Based in Kathmandu, Nepal · Open to remote and relocation
 
 I build and ship AI systems: LLM pipelines that stay accurate and affordable in production, and vision models that run on real data. At NAVIO I cut LLM costs by ~90% on a live shipping-industry platform. My co-authored paper on assistive navigation was published at IEEE DSIT 2025.
 
